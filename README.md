@@ -2,7 +2,7 @@
 Synergy is a tool that lets you use the same mouse & keyboard across Windows, Mac and Linux. Here you can find the latest freely available Synergy binaries (before Synergy went closed source). Synergy no longer openly distribute binaries, to get the latest version of Synergy you must pay for it. If you want to learn more about Synergy or get the paid version [click here](https://symless.com/synergy).
 
 ## Latest release candidate (v1.9.0-rc3)
-This version fixes a few macOS bugs found in v1.8.8 and has an updated GUI. Binaries were found [here](https://symless.com/forums/topic/2587-download-synergy-19-rc3-fixes-the-macos-wifi-lag-bug/).
+This version fixes a few macOS bugs found in v1.8.8 and has an updated GUI. Binaries were found [here](https://members.symless.com/forums/topic/2587-download-synergy-19-rc3-fixes-the-macos-wifi-lag-bug/).
 
 * Windows 7 and later 64-bit: [Synergy_v1.9.0_rc3.msi](https://github.com/amankhoza/synergy-binaries/raw/master/Synergy_v1.9.0_rc3.msi)
 * macOS 10.9 and later 64-bit: [Synergy_v1.9.0_rc3.dmg](https://github.com/amankhoza/synergy-binaries/raw/master/Synergy_v1.9.0_rc3.dmg)
